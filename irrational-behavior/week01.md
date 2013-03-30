@@ -49,3 +49,11 @@ Social proof (follow others) is similar to consistency (follow yourself)
 
 Framing
 Starbucks vs Dunkin Donuts - Starbucks made a new category to break away from previous coffee decisions
+
+# 1.6 Learning from mistakes
+Lessons from Behavioral Econ
+1. We have many decision biases
+2. Our intuitions suck
+3. We need empirical evidence to analyze behavior properly
+
+We resist validating our intuitions even when we should test them.
