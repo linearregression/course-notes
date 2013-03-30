@@ -42,3 +42,10 @@ Adding undesirable option (Rome v Paris v Rome-) makes choice predictable - deco
 Happens when we're not sure how to evaluate the options
 
 Inflation - lion seals, school choice, etc. Pushing past optimal because of local context.
+
+# 1.5 Long-lasting effects of decisions
+Anchoring - price of coffee - rational vs. self-herding
+Social proof (follow others) is similar to consistency (follow yourself)
+
+Framing
+Starbucks vs Dunkin Donuts - Starbucks made a new category to break away from previous coffee decisions
