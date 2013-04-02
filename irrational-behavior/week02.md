@@ -32,3 +32,15 @@ Study 2: manipulation of payment method; support H1
 Study 3: mediation by pain of payment; support H1; credit card payment reduces pain even when paying attention to prices
 Study 4: tightwads vs spendthrifts; support H3
 
+# Opportunity cost neglect
+People are bad at assessing opportunity cost, because they fail to spend the time to generate the alternative.
+
+Study 1a: "keep the money for other purposes" can reduce willingness to buy
+Study 1b: making cost savings explicit significantly increased purchases of cheaper option
+Study 1c: replicated findings with real money and products
+Study 2:  segregated amounts; results indicated that only the saved money formulation worked
+Study 3:  make people list pros and cons; opportunity cost explicitness increased pros related to being able to purchase other items
+Study 4:  priming opportunity costs worked
+Study 5:  spendthrifts are more susceptible to opportunity cost neglect when unpromopted; tightwads may be better at realizing opportunity costs
+
+ 
