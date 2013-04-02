@@ -16,4 +16,19 @@ Buying behavior as a function of number of choices follows a u-shaped curve.
 
 Experiment: people asked to rate 2-20 (in steps of 2) pens and given the opportunity to buy one; buying followed a u-shaped curve.
 
+# Credit card payments increase unhealthy food purchases
+Unhealthy food products are "vice products"; paying with a credit card can reduce pain for such purchases
+Impulsive purchases are more likely to be influenced by payment-related pain
+Rational choice modeling appears to be inadequate to explaining unhealthy food purchases
+Paying with cash is more aversive / painful than paying with non-cash methods, according to past experiments
+
+Cash-paying pain does not appear to affect purchase of virtue products as severely; thus, "the proportion of vice products relative to virtue products in the basket will change depending on the mode of payment"
+H1: Vice products will be reduced when paying in cash; virtue products will remain the same.
+H2: Credit and debit cards will both reduce pain of payment.
+H3: Tightwads will be more vice-regulated by cash payment.
+
+Study 1: real-life shopping data + payment type; support both H1 and H2
+Study 2: manipulation of payment method; support H1
+Study 3: mediation by pain of payment; support H1; credit card payment reduces pain even when paying attention to prices
+Study 4: tightwads vs spendthrifts; support H3
 
