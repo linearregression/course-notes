@@ -88,6 +88,7 @@ so they're evaluating basically the same ideas, but they still thought their for
 Experiment: given problem and seven words that were scrambled (only one solution)
 same result ==> IKEA effect
 
+
 Edison v Tesla, DC v AC. Edison's idea (DC) vs. outside idea (AC), regardless of objective value of the idea
 Toothbrush theory: our toothbrush is way better (== our theory)
 
@@ -114,7 +115,35 @@ Pay people well or poorly for a boring task => poorly-paid would recommend it mo
 so, Zappos: reject the money => I must really love Zappos (because I rejected a lot of money)
 
 ## Monetary stress and performance
+Assumption: no one will work unless they're paid
+Even rats will pursue food that requires some labor, even when free food is available (contrafreeloading) - EXCEPT for cats
 
+A bonus is a performance-contingent form of payment
+Assumption: bonuses increase effort
+
+Yerkes-Dodson effect: incentive increases performance up to a point, after which it declines
+Tested against mice (maze changing daily, electric shock intensity)
+"Learning incentives have an inverse-U relationship"
+
+Transfer: as you promise people more of a bonus, people want to perform better, BUT it can backfire (obssessing about the bonus, risk aversion, etc.)
+Experiment: in India, gave set of tasks with different bonus schedule (good, very good) based on performance and different bonus amounts (1 day of salary, 2 weeks of salary, 5 months of salary)
+Result: highest level of bonus killed performance (middle level sometimes increased, but not always; sometimes decreased (labyrinth)); on combined tests, no difference between low and middle, fall on high
+
+loss aversion: people hate losing more than they love gaining
+prepaid in the India experiment; DRAMATICALLY increased stress (second subject ran away with the money instead of paying it back)
+
+real-life bonuses may act like the gain or the loss condition
+[ company not hitting goals -- opinion varies from person to person ]
+Bankers don't think these results would apply to them, pshaw
+
+Intuition: mechanical vs. mental tasks, how are they differentially affected? No difference in the first experiment (were the tasks purely mechanical?)
+
+Experiment: alternate fingers on a keyboard / matrix test for mechanical / mental task
+mechanical task => higher bonus, better performance
+mental task => higher bonus, lower performance
+=> intuitions about bonuses rely on mechanical tasks, not mental tasks
+
+Bonus/punishment interferes with "flow" state -- bonuses say "I don't think you're motivated enough, so here"
 
 
 ## Social stress and performance
