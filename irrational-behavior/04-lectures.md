@@ -145,9 +145,46 @@ mental task => higher bonus, lower performance
 
 Bonus/punishment interferes with "flow" state -- bonuses say "I don't think you're motivated enough, so here"
 
-
 ## Social stress and performance
+How do social punishments factor in?
 
+Experiment: anagrams, pay for success, occasional solve-anagram-in-front-of-everyone
+More important to people -- social desire to look smart / avoid looking foolish
+public condition => much lower performance
 
+Higher motivation != better performance
+
+Analysis: how do people play when paired with Tiger Woods (before the troubles)
+Results: they stressed out and played worse
+
+Wall St execs still think that they're *special* and immune to stress -- are they in fact immune to big bonuses?
+[ does this apply to me, becoming immune to problems that affect large amounts of email at LS? ]
+
+Looked at professional basketball players (thanks, Coach K) -- specifically, "clutch" players
+Professional coaches agreed on the categorization; identified clutch players and analyzed performance
+Clutch players had more points at end of game than end of half; others had same points at each; BUT clutch players tried more at the end of the game -- same percentage of points. (Despite coaches beliefs, thinking that your percentage actually goes up.)
+
+Analyzed free throws (to avoid variance from defense) - clutch players still have the same free throw %, but only score more because they get more attempts.
 
 ## Bonuses, labor, and motivation
+People are wrong about basketball (way more selective than Wall St), but we're totally wrong about it wrt our intuitions -- and it's more mechanical than investment banking --- so bankers are probably full of it
+Asking bankers -- what do people do in the last quarter? They just talk/think about their bonuses. 
+
+Money is only one aspect of motivation, but it's not always positive.
+Small amounts of money can backfire (social relationship => market relationship)
+Large amounts can decrease performance by increasing motivation too much
+"We do not operate by simple rules of reward"
+
+Motivation is built of many different components
+Big bank: how much would a hug, beer, or dinner motivate someone? "We'd never do that"
+
+"We should think of ways to motivate and make people happier besides paying them more."
+Particularly for public companies
+
+A thoughtful gift can mean much more than money (NYC apartment for a year vs. big bonus)
+
+Adam Smith v Karl Marx -- efficiency v meaning
+complex process == one person per step is more efficient
+Smith: work should be specialized
+Marx: work has to have meaning, connecting labor to output
+pre-Industrial Revolution, Smith was more correct; post-, Marx wins out (esp knowledge economy)
