@@ -92,5 +92,5 @@ Keeping pricing simple (all one price) makes decisions easier
 Consolidating multiple purchases into one notification == lower pain of paying
 gift certificates / prepayment also reduce the pain of payment
 free apps overwhelm 0.99 apps; better to have 0.05 apps instead of free
-: 
+ 
 
