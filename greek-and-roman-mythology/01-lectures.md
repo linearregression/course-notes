@@ -78,7 +78,7 @@ Iliad
 * Paris
 * Priam
 
-The Iliad is a poem about rage, specifically about Achilles' conflict with Agamemnon (never resolved); Achilles reconciles(?) with Priam
+The Iliad is a poem about rage (*starts* with rage), specifically about Achilles' conflict with Agamemnon (never resolved); Achilles reconciles(?) with Priam
 The Iliad deals with *three days* of the ten-year war; other details come from other epic poems, including the backstory (Paris/Helen/Menelaus; apple of discord)
 
 # Trojan war aftermath and the Homer question
@@ -96,5 +96,10 @@ wrote in dactylic hexameter
 * - u u / - u u / - u u / - u u / - u u / - x
 
 # On reading Homer
-
-
+The Odyssey's first 10 lines
+Starts with "Man"
+Commands the Muse to sing to him (Homer) of a man -- divinely inspired
+Odysseus is resourceful (man of twists and turns), constantly driven off course after the War
+He sees many cities, learns many things about people
+He suffers immensely, and fights for survival (his own and his companions) with limited success
+His companions brought their own fate down upon them -- recklessly (devouring Helios' cattle)
