@@ -36,3 +36,53 @@ Matching donations increases giving (though not in the long run, where it depres
 Survey of NY Times readers appears that education *does not* depress the effect (giving => happiness)
 
 Evidence is still unclear as to whether charities should advertise the research that giving will make you happier.
+
+# A fine is a price
+Day care center study!
+
+Will fining parents for lateness decrease their lateness?
+Deterrence theory says yes
+
+Incomplete contracts can be swayed to financial vs. social by fines
+Adding the fine doubled late-arriving parents, and removing it didn't return things to the original levels
+
+Perfectly-rational models don't match this behavior
+
+# Man's search for meaning
+Bionicle experiment
+
+Less meaningful work == higher reservation wages
+Labor is meaningful to the extent that 1) it is recognized and/or 2) has some point or purpose.
+
+Experiment: find paired letters, paid per page (progressively less)
+condition 1: acknowledged
+condition 2: ignored
+condition 3: shredded
+Results: opposite of standard theory; effort highest in acknowledged and the same in ignored/shredded
+
+Experiment: Bionicle assembly
+condition 1: new bionicle each time
+condition 2: cycle through two bionicles (Sisyphus)
+Results: meaningful condition built 3.4 more bionicles
+Sisyphus participants "became disenchanted with their work"
+
+Marx's alienation of labor - worker separated from own activities, goals of the labor, and process of production
+
+# The IKEA effect
+Effort increases the value placed on the product by the worker
+[ Labroo and Kim, 2009 - "becoming a nicer person"? ]
+Success is required for overvaluing to occur
+People have a need for efficacy -- completion of tasks helps people feel competent and in control, and failure has negative psychological consequences
+
+Experiments: IKEA boxes, origami, and Lego construction
+
+Additional data: endowment effect and touch effect -- both less than IKEA
+completion is required for overvaluing (half-built boxes)
+not just DIYers susceptible to the effect
+
+[ involve users/consumers in effort to make them value the product more highly ]
+
+impact on sunk-cost and not-invented-here syndrome
+
+# Large stakes and big mistakes
+
