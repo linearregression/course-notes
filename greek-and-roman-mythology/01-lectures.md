@@ -62,7 +62,7 @@ Burkert - standard definition of myth for this course
 
 # The Trojan war and the world of Homer
 Trojan War: 13th century BCE
-Home: 8th century BCE
+Homer: 8th century BCE
 Athens: 5th century BCE
 Rome: 1st century BCE
 
