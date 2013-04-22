@@ -85,4 +85,11 @@ not just DIYers susceptible to the effect
 impact on sunk-cost and not-invented-here syndrome
 
 # Large stakes and big mistakes
+Excessive rewards => worse performance (India experiment)
 
+Automated vs. conscious tasks, bonuses run the risk of de-automating the task
+Bonuses can split attention
+
+Experiment: six games, all adversely affected by the highest reward
+Experiment: adding vs. key pressing - key pressing got faster with higher incentives, opposite for adding (matrix)
+Experiment: social incentives (audience effect), anagrams - audience depressed success
