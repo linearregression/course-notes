@@ -23,4 +23,13 @@ Study 2:
 Are self-imposed (suboptimal) deadlines better than maximum-flexibility?
 Supported
 
+# Personal decisions are the leading cause of death
+Personal decisions (e.g., smoking, drinking, overeating) cause >1M deaths annually, up from much smaller numbers in 1900 and 1950
 
+personal decision == choice among 2 or more alternatives
+readily available alternative == would have known about / could have chosen without investing substantial time or money
+premature deah == dying sooner than one would have had another choice been taken
+
+~5% of deaths in 1900 => personal decisions
+~22% of deaths in 1950
+~44.5% of deaths today
