@@ -136,4 +136,59 @@ Theoretical and policy implications regarding a general theory of crime. Justice
 803–834.
 ]
 
+# Separate neural systems value immediate and delayed rewards
+fMRI research on time discounting reveals two systems working on the problem: limbic for immediate rewards and prefontal and parietal cortex for delayed rewards
+
+Hypothesis (limbic vs. prefrontal) supported by:
+* non-human biology
+* brain damage
+* "quasi-hyperbolic" function (beta-delta preference) that explains the behavior works by splicing two separate functions together
+
+tested by fMRI on subjects offered money (the $10 today/$11 tomorrow task)
+
+hypothesis: supported
+
+Other factors than immediacy can generate the impatience / discounting
+
+# Counteractive self-control in overcoming temptation
+Ulysses contracts - counteractive control
+
+Hypotheses:
+1. Counteractive control efforts depend on the value of the long-term outcomes
+2. Short-term outcomes have a nonmonotonic effect
+3. Counteractive control will be exercised before activities, not after
+
+Strategies
+* high penalties for high short-term costs
+* rewards contingent on long-term outcome behavior
+* precommitting
+* change value of long-term options (self-image)
+
+Study 1
+Self-imposed monetary penalties
+* participants (test-takers) and observers
+* supported hypotheses (participants imposed higher fees for more intrusive tests; observers the opposite)
+
+Study 2
+Self-imposed conditions for receiving a bonus
+* health-valuers postponed the bonus in the high-discomfort condition, and vice versa for low health-valuers
+
+Study 3
+Boosting subject value of an activity
+Unpleasant tasks may 1) decrease willingness, and 2) increase counteractive control (thus increasing willingness)
+* longer duration decreased willingness, increased perceived value (balanced out)
+
+Study 4
+Nonmonotonic counteractive control
+Late-night cognitive tests, supported nonmonotonicity (i.e., people did better at 12:30am but couldn't support the 3:30am (and didn't need to do anything fancy for the 9:30pm test))
+
+Study 5
+Priming tempting alternatives
+Primed social motives before and after an exam
+* primed-before boosted value of studying
+* social priming impaired grades / counteracted by value of studying (balanced out)
+
+Not regret - participants hadn't done bad things yet, regret would be monotonic
+
+
 
