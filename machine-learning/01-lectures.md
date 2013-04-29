@@ -28,3 +28,18 @@ predict prob of malignancy based on new tumor size -- classification problem (pr
 can classify on more than one factor (e.g., size + age), up to infinite number of features
 
 To store infinite features in finite space: use an algorithm
+
+# Unsupervised learning
+The given dataset does not specify the correct answer
+
+Clustering examples:
+* Google News - clustering/aggregating related stories
+* Gene expression - cluster by genotype
+* Physically optimize data centers
+* Analyze social networks
+* Segment markets
+* Analyze astronomical data - galaxy formation
+
+Cocktail party problem - differentiate mixed voices/streams
+- super short algo
+- we'll be using Octave to make things easy (lots of built-ins)
