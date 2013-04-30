@@ -17,6 +17,15 @@ Supervised learning =>
 
 How do we represent h? for this class, initial choice is:
 
-h(x) = THETA0 + THETA1x
+hθ(x) = θ0 + (θ1)x
 linear function
 == linear regression with one variable; univariate linear regression
+
+## Cost function
+m = 47
+θi = parameters
+How do we choose θi's?
+Choose params such that hθ(x) is close to y for training examples (x,y) - minimization problem over θ0 θ1 - potentially minimize average square of sum of differences between prediction and actual price (average = 1/2m)
+
+cost function = J(θ0, θ1) = 1/2m * sum(1..m)(hθ(x(i)) - y(i))^2
+squared error function
