@@ -66,6 +66,17 @@ if θ1 is already at a local minimum, what happens? derivative term is 0, so ALP
 - so even with a fixed ALPHA, GD takes smaller steps as you get closer to a local minimum (because the derivative term gets smaller with each step)
 
 ## Gradient descent for linear regression
+! Multivariate calculus to expand the partial derivatives
+Linear regressions always have a convex function (bowl-shaped), so a single global minimum/optimum
+
+"batch" gradient descent -- each step of GD uses all the training examples (the sum of square of diffs)
+some alternatives use subsets of the training examples
+
+normal equations method == you can solve for the solution numerically, but GD scales better
+
+## What's next
+1. minimize the cost function without iteration (much faster)
+2. learning with a larger number of features (not just x => y)
+- linear algebra provides best notation for matrices and vectors (matrix for x's, vector for y's)
 
 
-assignment operator is :=
