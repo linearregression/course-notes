@@ -31,7 +31,7 @@ example: 3x2 * 2x3
 2. multiple 3x2 by second column of 2x3 (m-v mult)
 3. end result is 2x2 of first result and second result (1 => first column, 2 => second column)
 
-You can only multiply matrices where the cols from the 1st matrix == cols from the 2nd matrix; result is that # x that # dimensional matrix
+You can only multiply matrices where the cols from the 1st matrix == rows from the 2nd matrix; result is # of rows from first matrix x # of cols from second
 
 Neat trick: view competing hypotheses' predictions against data set
 - construct matrix [1 value, 1 value]
