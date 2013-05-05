@@ -21,7 +21,7 @@ Multiply each row of the matrix by the elements of the vector and sum them, resu
 m x n matrix * n-dimensional vector == m-dimensional vector
 
 Trick to use linear algebra to compute predictions from the hTHETA(x) function for a data set
-- construct a matrix of [1 value, 2 value, etc.] and a vector of [h0 h1] and multiply them out
+- construct a matrix of [1 value, 1 value, etc.] and a vector of [h0 h1] and multiply them out
 - prediction = data matrix * parameters
 - more computationally efficient than looping over the data set
 
