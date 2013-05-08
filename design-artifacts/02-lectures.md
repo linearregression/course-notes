@@ -89,3 +89,14 @@ Observe non-verbal information
 * Arrange needs hierarchically (prefer organically-generated category headers)
 * Flag the latent needs (mark with a "!")
 
+# Visual expression: orthographic projection and cross-sections
+Orthographic projection: a flattened, 2d view of a 3d object
+* top, front, and side views of a 3d object (total: six views - top, bottom, side A, side B, front, and back)
+* usually organized corresponding to the view (top view on top, side view next to front view)
+* relatively easy
+* unambiguously describes geometry
+* use boxes and guidelines to ensure scale, alignment, etc.
+
+Cross-sections - internal views of a 3d object
+
+
