@@ -55,3 +55,8 @@ Any condition - not usually expressed with the JOIN keyword in SQL
 Ex: `SELECT DISTINCT h.name FROM hospitals h, schools s WHERE distance(h.location, s.location) < 5`
 
 Outer join (left, right, full)
+
+# Interpreting complicated SQL
+Nested queries, meh
+Treating CASE as a function
+
