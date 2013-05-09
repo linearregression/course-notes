@@ -24,3 +24,12 @@ RDBMS => organizing the database in such a way that novel queries and uses of da
 * every row in a table has the same columns
 * relationships are implicit (a-id => a.id)
 
+# Relational algebra intro
+Pre-RDBMS: data change => broken application
+RDMBS => abstraction of the data
+
+RDBMS exhibit an algebraic structure allowing manipulation independent of physical organization/storage
+Algebraic optimization - simplification / reduction of equations; do the same in relational algebra (DBs)
+- particularly important for determining the fastest/most efficient query
+
+
