@@ -45,4 +45,7 @@ Difference: EXCEPT
 Intersection = R1 - (R1 - R2) (or inner join)
 Selection: return tuples which satisfy a condition
 
-
+# Project/cross product/equi-join
+Project: eliminates columns
+Cross product: Cartesian product; becoming more common
+Equi-join: join on equality condition
