@@ -76,4 +76,8 @@ EXPLAIN => execution plan, duh
 1 can be superior when one side is very small
 differences can be *significant*
 
+# Declarative languages
+Relational algebra specifies order (join 1 before join 2, etc.); declarative languages just describe the desired output
+SQL is *what*, not *how*
+
 
