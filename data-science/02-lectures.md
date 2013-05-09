@@ -60,3 +60,7 @@ Outer join (left, right, full)
 Nested queries, meh
 Treating CASE as a function
 
+# User-defined functions
+Yes, you can define your own functions. [too basic]
+* Not in SQLite, sucker
+
