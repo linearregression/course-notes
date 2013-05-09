@@ -64,3 +64,16 @@ Treating CASE as a function
 Yes, you can define your own functions. [too basic]
 * Not in SQLite, sucker
 
+# Physical optimization
+A single logical expression can be realized by different physical algorithms
+
+Ex: SELECT * FROM orders, items WHERE orders.order = items.order
+Options:
+1. Nested for loops (iterate over items, then orders, return matches)
+2. hashtable (insert all items into hashtable, iterate over orders and look up matches in hashtable)
+
+EXPLAIN => execution plan, duh
+1 can be superior when one side is very small
+differences can be *significant*
+
+
