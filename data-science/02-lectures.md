@@ -80,4 +80,10 @@ differences can be *significant*
 Relational algebra specifies order (join 1 before join 2, etc.); declarative languages just describe the desired output
 SQL is *what*, not *how*
 
+# Logical data independence
+Views - abstraction over the lower-level logical structure of data
+Views are named queries
+SQL is algebraically closed
+Materializing views - database-specific
 
+Indexes, yay
