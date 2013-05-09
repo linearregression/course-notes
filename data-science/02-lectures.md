@@ -49,3 +49,9 @@ Selection: return tuples which satisfy a condition
 Project: eliminates columns
 Cross product: Cartesian product; becoming more common
 Equi-join: join on equality condition
+
+# Theta-join
+Any condition - not usually expressed with the JOIN keyword in SQL
+Ex: `SELECT DISTINCT h.name FROM hospitals h, schools s WHERE distance(h.location, s.location) < 5`
+
+Outer join (left, right, full)
