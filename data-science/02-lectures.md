@@ -32,4 +32,17 @@ RDBMS exhibit an algebraic structure allowing manipulation independent of physic
 Algebraic optimization - simplification / reduction of equations; do the same in relational algebra (DBs)
 - particularly important for determining the fastest/most efficient query
 
+# Diff/union/select
+Relational algebra operations: union, intersection, difference, selection, projection, join; (extended RA) duplicate elimination, grouping/aggregation, sorting
+Sets vs. bags
+* set members are unique
+* bags need extended RA
+* papers assume set semantics
+* implementations assume bag semantics
+
+Union: UNION vs UNION ALL (suppress dupes vs. not)
+Difference: EXCEPT
+Intersection = R1 - (R1 - R2) (or inner join)
+Selection: return tuples which satisfy a condition
+
 
