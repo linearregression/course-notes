@@ -82,7 +82,7 @@ If you're demand-constrained, even the bottleneck will have idle time
 
 Line-balancing = share work across the resources
 
-Takt time = seconds in time / flow rate => sec/unit
+Takt time = 1/demand
 Target manpower = processing time / Takt time 
 
 Assign tasks to resourecs so that total processing times < Takt time
