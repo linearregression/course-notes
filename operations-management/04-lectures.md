@@ -96,15 +96,27 @@ Staffing to demand
 * plan resources accordingly
 
 # Quartile analysis
+Individual variation across resources
+Call center example
 
-
-
-
+Process:
+* sample processing times per task across individuals
+* compare top and bottom quartiles; sometimes up to *300% differences*
+* transfer best practices from top performers to bottom performers
 
 # Productivity ratios
+Problems with measuring productivity:
+* it's hard to measure output => fall back on revenue
+* multiple input factors => limit analysis to one category (e.g., labor)
 
+Revenue/cost = revenue/output (operational yield) * output/capacity (transformation efficiency) * capacity / cost (1/unit cost of capacity)
+Ex: Airline
+Revenue/cost = revenue / revenue-per-mile * revenue-per-mile / airline-seat-mile * airline-seat-mile / employees * employees / labor costs
 
+Analyzing each component allows you to see what contributes to differing productivity across companies
+Aggregate data can be misleading
 
-
-
+General process:
+* Start top-down with the financial statements and productivity ratios
+* Supplement with data from the front lines
 
