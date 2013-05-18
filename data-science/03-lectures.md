@@ -32,3 +32,13 @@ Look at categories of words in a document (e.g., long, short, medium words)
 Illustration that documents are not atomic
 
 Inverted index: all documents that contain a word
+
+# MapReduce: relational joins
+Multiple tables, prepend a table (or record type) field, then smush all the records into a single stream
+Map to (foreign key, fields)
+Reduce merges fields for same foreign key (with the parent table being identified by the type label)
+
+Counting friends
+
+
+
