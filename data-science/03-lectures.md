@@ -21,4 +21,10 @@ Reduce is called once per group of input
 Thanks, Google!
 Hadoop is free
 
-Map-reduce input/output characteristics 
+Map-reduce input/output characteristics
+
+# MapReduce pseudocode
+Looking at MR example pseudocode for word frequencies across documents
+Tweak performance within the map and reduce functions
+
+
