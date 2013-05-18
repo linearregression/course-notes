@@ -67,5 +67,15 @@ Phases of MapReduce
 
 Combine = optional function, same method signature as the reducer, applied locally (before sending data across the network)
 
+# Parallel databases
+Large-scale database processing - parallel DBs are a pain
+MapReduce is a lightweight solution
 
+Parallel processing for declarative querying
+* distributed query - union of subqueries, run across many nodes; implemented as a view
+* parallel query - operators implemented with parallel algorithms
 
+Pig: relational algebra on top of Hadoop
+Hive: SQL over Hadoop
+Impala: SQL over HDFS
+etc.
