@@ -40,5 +40,12 @@ Reduce merges fields for same foreign key (with the parent table being identifie
 
 Counting friends
 
+# MapReduce: matrix multiplication
+Map phase: for each element (i,j) of matrix A, emit ((i,k), A[i,j]) for k in 1..N (number of cols in B)
+           for each element (j,k) of matrix B, emit ((i,k), B[j,k]) for i in 1..L (number of rows in A)
+Reduce phase: emit key = (i,k), value = sum(A[i,j] * B[j,k]) 
+
+One reducer per output matrix cell
+Each reducer (i,k) gets all values from row i in A and from col k in B; the reduce function multiplies them out and sums them
 
 
