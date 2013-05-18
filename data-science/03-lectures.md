@@ -79,3 +79,25 @@ Pig: relational algebra on top of Hadoop
 Hive: SQL over Hadoop
 Impala: SQL over HDFS
 etc.
+
+# MapReduce vs. RDBMS
+Features vary substantially from MR to RDBMSs
+
+# Experimental results - MR vs DBs
+Pavlo 2009 results
+Data loading: Oracle was massively slower than Hadoop and Vertica (column-oriented)
+Grep execution: Hadoop is slowest, then Oracle, then Vertica (fastest)
+Select task: Hadoop is massively slower then either DB, with Oracle winning significantly (lack of indexing)
+Aggregate task: Vertica wins by a lot, Hadoop somewhat slower than Oracle
+Complex join task: Hadoop loses by a ton (no indexing)
+
+Google's response: cluster size
+
+MapReduce can learn:
+* declarative langauges are good
+* schemas are important
+
+DBs can learn:
+* fault-tolerance for queries
+* support for in situ data
+* embrace open-source
