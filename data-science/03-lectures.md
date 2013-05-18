@@ -48,4 +48,24 @@ Reduce phase: emit key = (i,k), value = sum(A[i,j] * B[j,k]) 
 One reducer per output matrix cell
 Each reducer (i,k) gets all values from row i in A and from col k in B; the reduce function multiplies them out and sums them
 
+# MapReduce implementation overview
+Architectures:
+* shared memory
+* shared disk
+* shared nothing <= map-reduce's sweet spot
+
+Cluster computing: you will see failures
+Distributed filesystems - Google DFS, Hadoop's HDFS
+* files are partitioned into chunks, replicated across machines
+
+Phases of MapReduce
+* Split
+* Record Reader => Map => Combine
+* Copy
+* Sort
+* Reduce
+
+Combine = optional function, same method signature as the reducer, applied locally (before sending data across the network)
+
+
 
