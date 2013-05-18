@@ -27,4 +27,8 @@ Map-reduce input/output characteristics
 Looking at MR example pseudocode for word frequencies across documents
 Tweak performance within the map and reduce functions
 
+# MapReduce: more examples
+Look at categories of words in a document (e.g., long, short, medium words)
+Illustration that documents are not atomic
 
+Inverted index: all documents that contain a word
