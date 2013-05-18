@@ -14,3 +14,11 @@ Adding reduce: word frequency across all documents
 map = distributes multiple inputs to worker nodes for individual processing
 reduce = combines multiple inputs into the output
 
+# MapReduce abstractions
+Map is called once per input objects
+Reduce is called once per group of input
+
+Thanks, Google!
+Hadoop is free
+
+Map-reduce input/output characteristics 
