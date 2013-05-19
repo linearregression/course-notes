@@ -67,5 +67,9 @@ Flexibility can increase setups required and capital required; partial flexibili
 Software developers - massively polyglot programmers (expensive and rare) vs. mildly polyglot programmers 
 
 # Platforms and modularity
+Increase variety through the process for high efficiency = economy of scale (keep things standard as long as possible) = delayed differentiation
+
+Modularity allows differentiation delay - isolate the variable elements (iPhone + case, case is colorful)
 
 # Limits to customer choice
+
