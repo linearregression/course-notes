@@ -12,6 +12,16 @@ Variety because:
 * niche saturation
 
 # Capacity calculations
+Setup / switchover costs lower capacity
+Ex: custom shirts sold online; infinitely many sizes, many styles and colors, four weeks lead time, minimum order of 5 shirts
+Production process: cutting (constant setup time); sewing (sewing + assembly); finishing
+
+Capacity given a batch size = batch size / (setup time + batch size * time per unit (processing time))
+Compare to individual capacity: number of workers / processing time
+
+Large batches are a form of economy of scale - minimize impact of setup time; cap as function of batch size asymptotically approaches individual cap
+
+Large batches lead to higher inventory
 
 # Mixed model production
 
