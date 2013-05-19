@@ -23,7 +23,20 @@ Large batches are a form of economy of scale - minimize impact of setup time; ca
 
 Large batches lead to higher inventory
 
+Batch = collection of flow units produced between two setups
+
 # Mixed model production
+Large batches lead to mismatch between supply and demand (e.g., excess inventory)
+Need to balance inventory with capacity
+Long production runs lead to higher average inventory; frequent changeover lowers the average inventory
+
+mixed model production == heijunka (in Toyota model)
+
+in MMP, batch = all units produced before repeating the pattern of production (e.g., flow units processed between *three* (or types+1) setups)
+Calculation: desired cap = batch/(setup time + batch * processing time), solve for batch size, then split total batch size by proportion of types in demand
+
+Adding another product will increase the optimal production run length
+More setups == more capacity spent on setup
 
 # Choosing a batch size
 
