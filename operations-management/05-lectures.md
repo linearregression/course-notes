@@ -39,6 +39,10 @@ Adding another product will increase the optimal production run length
 More setups == more capacity spent on setup
 
 # Choosing a batch size
+Choosing batch size can move the bottleneck
+* too-small batches put the bottleneck on the setup step
+* too-large batches overwhelm other steps
+* optimal: choose batch size to equal the next bottleneck
 
 # Demand fragmentation and pooling
  
