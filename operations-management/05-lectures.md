@@ -72,4 +72,5 @@ Increase variety through the process for high efficiency = economy of scale (kee
 Modularity allows differentiation delay - isolate the variable elements (iPhone + case, case is colorful)
 
 # Limits to customer choice
+Too much choice can overwhelm customers
 
