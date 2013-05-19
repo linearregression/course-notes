@@ -45,7 +45,13 @@ Choosing batch size can move the bottleneck
 * optimal: choose batch size to equal the next bottleneck
 
 # Demand fragmentation and pooling
- 
+Over-segmenting demand makes prediction *much* harder; aggregation reduces uncertainty
+Statistics!
+coefficient of variation = STDEV / MEAN
+combining demands = lower demand variability == demand pooling
+
+made to stock (vs. made to order) pools demand
+
 # Flexibility
 
 # Platforms and modularity
