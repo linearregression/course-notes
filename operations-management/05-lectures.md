@@ -53,6 +53,18 @@ combining demands = lower demand variability == demand pooling
 made to stock (vs. made to order) pools demand
 
 # Flexibility
+Shortening setup times increases flexibility
+
+SMED (single minute exchange of dies)
+1. measure total changeover time
+2. determine internal and external activities (external can be done outside of the changeover process, while the step is active)
+3. move external activities to before or after the shutdown
+4. improve the internal activities
+5. improve the external activities
+6. standardize procedures
+
+Flexibility can increase setups required and capital required; partial flexibility may be a solution (almost all the benefits of full flexibility with much lower cost)
+Software developers - massively polyglot programmers (expensive and rare) vs. mildly polyglot programmers 
 
 # Platforms and modularity
 
