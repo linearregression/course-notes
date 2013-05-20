@@ -38,8 +38,11 @@ Build prototypes to:
 The "ideal point" model - everyone has a point in the design space where they are maximally satisfied
 
 # Building stuff
+Prototyping for products - a few standard tips
 
 # Scoop examples
+Prototype scoops that Ulrich made
+Making 'em and testing 'em
 
 # Drawing with emphasis and detail
 
