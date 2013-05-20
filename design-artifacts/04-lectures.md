@@ -15,8 +15,14 @@ Cells: evaluate each concept against each criterion
 * sum +'s, -'s, and 0's for the results
 
 # Concept scoring matrix
+Selection matrix: weighted criteria and a more granular scale
+May be overkill
 
 # Prototyping
+Prototype: an approximation of the artifact on one or more dimensions of interest
+Successive prototypes can improve the approximation
+
+Distribute prototypes to alpha testers, continue to refine
 
 # Focused v comprehensive; analytical v physical
 
