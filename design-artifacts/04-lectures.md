@@ -25,8 +25,17 @@ Successive prototypes can improve the approximation
 Distribute prototypes to alpha testers, continue to refine
 
 # Focused v comprehensive; analytical v physical
+Partial approximations
+* focused on one or a few dimensions vs. comprehensive, approximating the final product on all dimensions
+* physical and analytical prototypes - digital illustration tools to design a room, etc.
 
 # Prototype uses
+Build prototypes to:
+* answer questions - address "will it work?" and "will they like it?"
+* communicate - communicate design concepts to others
+* provide milestones on the way to production - proof of concept, alpha, beta, preproduction
+
+The "ideal point" model - everyone has a point in the design space where they are maximally satisfied
 
 # Building stuff
 
