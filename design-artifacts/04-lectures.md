@@ -8,8 +8,11 @@ Desirable traits of a selection method:
 * self-documenting
 
 # Concept selection matrix
-
-
+Columns of the matrix = concepts under evaluation
+Rows of the matrix = criteria (key needs + cost, wow!, and elegance/beauty)
+Cells: evaluate each concept against each criterion
+* + for the best, - for the worst, and checkmark (or 0) for average/midpoint
+* sum +'s, -'s, and 0's for the results
 
 # Concept scoring matrix
 
