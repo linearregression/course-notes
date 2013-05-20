@@ -45,7 +45,11 @@ Prototype scoops that Ulrich made
 Making 'em and testing 'em
 
 # Drawing with emphasis and detail
+Three distinct line weights are usually enough
+Contour lines show a three-dimensional shape
+Shading - single light source; three light values are usually enough
 
 # Modeling tips and tricks
-
+Scale issues
+Working with paper, foamcore, etc.
 
