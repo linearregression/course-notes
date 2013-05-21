@@ -46,4 +46,10 @@ Process:
 3. confirm they're similar
 4. turn off gradient checking (too expensive to run constantly)
 
+# Random initialization
+Need some initial THETA
+* could use zeroes; works for logistic regression but not for neural networks (no differential activation, so you're basically only calculating one feature per node)
+* breaking symmetry by random initialization between -EPSILON and EPSILON
+
+# 
 
