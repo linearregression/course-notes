@@ -25,3 +25,25 @@ Again, check course notes for equations
 
 # Backpropagation intuitions
 Run the calculations backward to see how much each hidden layer node contributes to the next layer's activation
+
+# Implementation: Unrolling parameters
+Unroll matrices into vectors (so we can use optimization algorithms)
+In octave, use (:) to unroll a matrix (so you can pass it to fminunc)
+Use reshape with (elements, n, m) to get the matrix back
+
+costFunction in Octave - pass in the unrolled vector, reconstruct the matrices, use forward and backward propagation to get D1, D2, etc., then unroll those to output gradientVec
+
+# Gradient checking
+How do you confirm that you've got the optimal learned weighting?
+approximate derivative of J(THETA) with (J(THETA+EPSILON) - J(THETA-EPSILON))/(2 * EPSILON) # two-sided difference / when THETA is a real number
+
+When THETA is a vector, partial derivatives reappear; code example in slides
+calculate the approximate gradient, then compare to DVec (derivatives from back propagation)
+
+Process:
+1. backprop to compute DVec
+2. numerical gradient check to compute gradApprox
+3. confirm they're similar
+4. turn off gradient checking (too expensive to run constantly)
+
+
