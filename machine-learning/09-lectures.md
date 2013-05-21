@@ -71,4 +71,5 @@ Steps to train a NN:
 * use gradient descent or advanced optimization with backprop to minimze J(THETA) wrt THETA
   * J(THETA) is non-convex (so you can get stuck in local optima, occasionally)
 
-
+# Autonomous driving
+Neural network!
