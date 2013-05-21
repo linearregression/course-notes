@@ -23,4 +23,5 @@ Algorithm:
 
 Again, check course notes for equations
 
-# 
+# Backpropagation intuitions
+Run the calculations backward to see how much each hidden layer node contributes to the next layer's activation
