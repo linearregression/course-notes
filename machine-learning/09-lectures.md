@@ -51,5 +51,24 @@ Need some initial THETA
 * could use zeroes; works for logistic regression but not for neural networks (no differential activation, so you're basically only calculating one feature per node)
 * breaking symmetry by random initialization between -EPSILON and EPSILON
 
-# 
+# Putting it together
+Steps to train a NN:
+* pick an architecture (layers, nodes)
+  * input units defined by dimension of features
+  * output units defined by classes
+  * reasonable default: single hidden layer; if more than one, use the same number of units in each hidden layer
+  * more hidden units the better (1-4x input units)
+* randomly initialize weights
+* implement forward propagation to get hTHETA(x)
+* implement cost function
+* implement backprop to compute partial derivatives
+  * usually done with a for loop over the training examples to get activations and deltas for each layer
+    * perform forward and back prop using the example
+    * calculate activations and delta terms
+    * compute the DELTAs
+* use gradient checking to validate the code
+  * then disable gradient checking
+* use gradient descent or advanced optimization with backprop to minimze J(THETA) wrt THETA
+  * J(THETA) is non-convex (so you can get stuck in local optima, occasionally)
+
 
