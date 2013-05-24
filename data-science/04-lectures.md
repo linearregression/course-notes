@@ -35,3 +35,14 @@ Major systems
 
 Memcached: important concept - consistent hashing
 * limits movement of data when adding new servers
+
+# Dynamo
+ultra high availability and performance
+writes do not fail; last write wins
+reconciliation happens at read time
+configurable consistency
+R = nodes for a good read
+W = nodes for a good write
+N = replication factor
+R+W > N => consistency
+R+W < N => lower latency
