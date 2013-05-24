@@ -60,3 +60,15 @@ row key range broken into tablets (unit of distribution and load balancing)
 column families - access control, memory & disk accounting
 cells can be versioned
 compression, bloom filters, locality groups, immutability
+
+# Other 
+HBase = BigTable, compatible with Hadoop
+Megastore = entity groups, synchronous replication, full transactions within a partition
+Spaner = flexible schemas and strong consistency (transactions)
+* directories (contiguous keys with shared prefix)
+* hierarchy from interleaving keys
+
+# Responses to NoSQL
+Various efforts underway to add missing features to NoSQL systems
+NoSQL criticism
+
