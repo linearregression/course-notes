@@ -21,3 +21,17 @@ CAP theorem:
 
 RDBMS downplay partitioning, many NoSQL systems downplay consistency
 
+# Memcached
+ACID
+* Atomicity
+* Consistency
+* Isolation
+* Durability
+
+Major systems
+* Memcached
+* Dynamo
+* BigTable
+
+Memcached: important concept - consistent hashing
+* limits movement of data when adding new servers
