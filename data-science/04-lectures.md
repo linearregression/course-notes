@@ -46,3 +46,17 @@ W = nodes for a good write
 N = replication factor
 R+W > N => consistency
 R+W < N => lower latency
+
+# CouchDB
+transactional within a document
+lock-free concurrency (optimistic)
+views - JS map-reduce functions
+view collation
+
+# BigTable/HBase
+sparse, distributed, persistent, multidimensional sorted map
+data is sorted lexicographically by row key
+row key range broken into tablets (unit of distribution and load balancing)
+column families - access control, memory & disk accounting
+cells can be versioned
+compression, bloom filters, locality groups, immutability
