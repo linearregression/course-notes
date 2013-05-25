@@ -72,3 +72,30 @@ Spaner = flexible schemas and strong consistency (transactions)
 Various efforts underway to add missing features to NoSQL systems
 NoSQL criticism
 
+# Pig
+Layer on top of Hadoop, generates map-reduce jobs automatically
+Easier to represent certain sorts of queries, but retain scaling benefits of MR jobs
+
+Data model
+* atom
+* tuple (<...,...>)
+* bag (collection of tuples; allows duplicates) ({<>,<>})
+* map (keys mapped to any time - allows nesting) ([...:...'])
+
+Operators
+* . => project (e.g., f2#$0 => first element of each tuple in bag f2)
+* # => value (e.g., f3#'apache' => value for key 'apache' in f3)
+
+Commands
+* LOAD - input is assumed to be a bag; specify parsing function with USING; specify schema wish AS
+* FILTER - arbitrary boolean conditions, regex allowed
+* GROUP - first field is named "group", second field is named after the original dataset
+* DISTINCT
+* FOREACH - manipulate each tuple; GENERATE to specify output; FLATTEN to unnest
+* COGROUP - aggregate multiple datasets (A by f1, B BY f2; groups by same values in A.f1 and B.f2)
+* JOIN - flattened union of rows from A and B where the join values are the same
+  * multiple algorithms available to optimize various cases (small tables, skewed joins, presorted tables)
+  * skewed datasets/stragglers (where one key has most of the data) are one of the biggest performance issues in MR
+
+
+
