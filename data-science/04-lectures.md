@@ -96,6 +96,14 @@ Commands
 * JOIN - flattened union of rows from A and B where the join values are the same
   * multiple algorithms available to optimize various cases (small tables, skewed joins, presorted tables)
   * skewed datasets/stragglers (where one key has most of the data) are one of the biggest performance issues in MR
+  * two-steps (vs. COGROUP's one step)
+* STORE - output
+* UNION - unite datasets
+* CROSS - crossproduct
+* DUMP - print to screen
+* ORDER
+
+
 
 
 
