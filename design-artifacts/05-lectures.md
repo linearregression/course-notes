@@ -26,5 +26,7 @@ Tournament
 * many initial options, successive filters to transform raw opportunities to exceptional opportunities
 * used for lots of domains (design, singing, graphic design, pharmacology, apparel, etc.)
 
+# Entrepreneurial design
+History of the Xootr
 
 
