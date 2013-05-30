@@ -18,4 +18,12 @@ How can you tell if a hypothesis is overfitting the training data?
   * learn THETA from new training set, then compute test set error
   * for logistic regression, test set error may be calculated as misclassification error
 
-
+# Model selection and validation
+How do you decide what degree polynomial to use?
+* treat degree as an extra parameter
+* goal: fit model and estimate accuracy of fit to new examples
+* calculate THETA for each hypothesis and pick the best cost function
+* problem: THETA is overly optimistic (because degree is fit to the test set)
+* solution: divide training examples into three sets (training, cross-validation, and test set - 60/20/20%)
+  * calculate training, CV, and test error for each hypothesis
+  * select model based on CV error minimization, not test set error
