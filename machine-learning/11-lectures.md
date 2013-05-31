@@ -21,3 +21,13 @@ Process:
 
 Use Jcv for these evaluations
 
+# Error metrics for skewed classes
+Skewed classes = one class is hugely under- or over-represented (e.g., 0.5% of the set has a class) - even small error can be unacceptable
+With skewed classes, maximizing classification accuracy alone may not improve the algo
+
+Precision / recall
+* true positive, true negative, false positive, and false negative
+* precision = of all predicted small-class holders, what percent are members? e.g. # true positives / # predicted positives (true pos + false pos)
+* recall = of all actual small-class members, what percent were predicted to be members? e.g., # true positives / # all postives (true pos + false neg)
+
+Precision and recall numbers can show better algos
