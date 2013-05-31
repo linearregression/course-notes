@@ -12,4 +12,12 @@ How to spend your time?
 * finding misspellings
 * etc
 
-# 
+# Error analysis
+Process:
+* start with a simple, fast-to-build algo and test it for Jcv
+* plot learning curves
+* manually examine the errors in CV that were classified inappropriately; look for systematic trends
+* brainstorm features specifically for the systematic errors and evaluate them based on the misclassified examples for frequency
+
+Use Jcv for these evaluations
+
