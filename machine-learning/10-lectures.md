@@ -28,5 +28,26 @@ How do you decide what degree polynomial to use?
   * calculate training, CV, and test error for each hypothesis
   * select model based on CV error minimization, not test set error
 
-# Diagnosing bias
+# Diagnosing bias v variance
+High bias == underfitting
+High variance == overfitting
 
+* Training error tends to decrease with increasing degree of polynomial
+* CV error is a U-shaped curve when plotted against degree of polynomial (underfitting == high error, overfitting == high error)
+
+High bias is the case when both training and CV error are high
+High variance is the case when training error is low and CV error is high
+
+# Regularization and bias/variance
+Large lambda (regularization) => underfitting, high bias
+Small lambda => overfitting, high variance
+
+Choosing lambda:
+* define J(THETA) = cost function without regularization (for train, CV, and test)
+* define a range of possible lambdas
+* minimize J(THETA) based on possible lambdas to define various THETAs
+* evaluate Jcv(THETA) for each THETA (minimize it)
+* evaluate chosen Jtest(THETA) for selected THETA
+
+lambda is too large if Jcv(THETA) is high and Jtrain(THETA) is high
+lambda is too small if Jcv(THETA) is high and Jtrain(THETA) is low
