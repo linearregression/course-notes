@@ -28,6 +28,8 @@ How do you decide what degree polynomial to use?
   * calculate training, CV, and test error for each hypothesis
   * select model based on CV error minimization, not test set error
 
+Cross-validation is helpful for non-model parameters (e.g., lambda, degree) but not THETA
+
 # Diagnosing bias v variance
 High bias == underfitting
 High variance == overfitting
