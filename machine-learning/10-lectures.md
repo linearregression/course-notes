@@ -27,3 +27,6 @@ How do you decide what degree polynomial to use?
 * solution: divide training examples into three sets (training, cross-validation, and test set - 60/20/20%)
   * calculate training, CV, and test error for each hypothesis
   * select model based on CV error minimization, not test set error
+
+# Diagnosing bias
+
