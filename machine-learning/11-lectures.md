@@ -31,3 +31,14 @@ Precision / recall
 * recall = of all actual small-class members, what percent were predicted to be members? e.g., # true positives / # all postives (true pos + false neg)
 
 Precision and recall numbers can show better algos
+
+# Precision / recall tradeoffs
+Example: cancer, predict cancer if hTHETA(x) >= 0.5
+* avoid false positives: raise threshold, you get higher precision and lower recall
+* avoid false negatives: lower threshold, you get higher recall and lower precision
+
+Can this threshold be chosen automatically? What single-number can we use to prefer one algo to another?
+* average of P+R is not good
+* better: F1 score = 2PR / (P+R)
+
+
