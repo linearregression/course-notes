@@ -70,3 +70,16 @@ Small m will yield low Jtrain (overfitting); high m will yield progressively mor
 Small m will yield high Jcv; high m will decrease the error -- and getting even more will continue to drop the error
 Jtrain and Jcv will converge (or even cross) as m continues to increase
 
+# More about what to try next?
+Use the above heuristics to decide whether to get more training data, tweak lambda, etc.
+* more training examples <= fixes high variance
+* fewer features <= fixes high variance
+* more features <= often fixes high bias
+* adding polynomial features <= fixes high bias
+* lower lambda <= fixes high bias
+* higher lambda <= fixes high variance
+
+Neural networks
+* small networks are prone to underfitting; computationally cheaper
+* large networks are prone to overfitting and are more expensive -- use regularization
+* number of hidden layers == usually start with 1, but test multiple layers with cross-validation data sets
