@@ -41,4 +41,12 @@ Can this threshold be chosen automatically? What single-number can we use to pre
 * average of P+R is not good
 * better: F1 score = 2PR / (P+R)
 
+# Data for ML
+How much data should you train on?
+More data == better predictions, generally
 
+Assume feature set x has sufficient info to predict y correctly (e.g., if a human expert looked at x, she could confidently predict y)
+* Use a learning algo with many parameters - low bias algos, Jtrain will be small
+* Use a very large dataset - unlikely to overfit, Jtrain ~= Jtest
+
+High performance algos are low bias and low variance 
