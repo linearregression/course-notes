@@ -51,3 +51,22 @@ Choosing lambda:
 
 lambda is too large if Jcv(THETA) is high and Jtrain(THETA) is high
 lambda is too small if Jcv(THETA) is high and Jtrain(THETA) is low
+
+# Learning curves
+Plot Jtrain or Jcv as a function of m (limit training set size to get multiple data points)
+For a quadratic hypothesis, m = 1..3 can all have Jtrain of 0
+As m increases, average Jtrain will increase
+
+For Jcv, small m will yield high error
+As m increases, Jcv will decrease
+
+Assume high bias:
+Jcv will be high for small m, will drop for larger m but will plateau relatively quickly
+Jtrain will start small but will plateau (close to Jcv) relatively quickly
+Both J's will plateau at a high level, regardless of how big m gets
+
+Assume high variance:
+Small m will yield low Jtrain (overfitting); high m will yield progressively more error -- but never that high
+Small m will yield high Jcv; high m will decrease the error -- and getting even more will continue to drop the error
+Jtrain and Jcv will converge (or even cross) as m continues to increase
+
