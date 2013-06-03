@@ -40,3 +40,50 @@ Meta-analysis: weighted average of independent studies
 Heteroskedasticity = when variance itself is not constant
 * may not be a problem
 * can increase overall error estimates, can lead to Type 2 errors
+
+# Fraud and Benford's law
+Another reason for the decline: more retractions 
+
+Benford's law predicts the distribution of the digits within numerical data
+* the distribution is often not even, weighted towards lower digits
+* for some scientific data, the first digit followed the law but later digits did diverge
+
+the law: P(d) = log10(1+1/d)
+
+Not always true: 
+* data must span many orders of magnitude
+* no floors or ceilings
+
+# Multiple hypothesis testing
+A third possible reason: if you test many different hypotheses over the same data, then you need to adjust significance down
+
+Familywise error rate
+* detecting an effect in multiple experiments even if there is no effect is increasingly likely as you increase the number of experiments - 50 tests means about a 90% chance of a spurious positive
+* Bonferroni correction: divide by the number of hypotheses
+* Sidak correction: assert independence
+
+False discovery rate:
+Q = FDR = FD/D (false discoveries over total discoveries)
+Benajmini-Hochberg procedure to control FDR 
+
+# Big Data
+are classical stats sufficient for big data?
+Big data can allow spurious correlations
+
+increasing # of records decreases variance but increases bias
+
+# Bayesian intro
+Frequentist approach: probability of seeing X given the null hypothesis
+Bayesian approach: probability of a given outcome given X
+
+Incorporating prior knowledge is both a strength and a weakness
+Criticism: prior knowledge can justify anything
+Counter: 0.05 p is arbitrary
+
+# Bayes rule
+Frequentists only use current data; Bayesians incorporate prior belief as well
+
+P(H|D) = (P(D|H) * P(H)) / P(D)
+
+Naive Bayes: probabilities are independent
+
