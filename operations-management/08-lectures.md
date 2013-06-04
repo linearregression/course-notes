@@ -53,7 +53,14 @@ Statistical process control
 * Eliminate or replicate assignable cause - corrective action 
 
 # Jidoka
+Information turnaround time (ITAT) - feedback/learning - time after defects start til they're detected?
+* buffer/inventory increases ITAT
 
+Test flow units maximally before the bottleneck
+Jidoka - detect-alert-stop, the machine alerts and shuts itself down
+Andon Board / Cord - make defects stand out visibly, upon detection yank the cord (stops the line) and the problem shows up on the board
+
+DAS => root-cause problem solving => avoid future problems => loop
 
 # Problem solving
 
