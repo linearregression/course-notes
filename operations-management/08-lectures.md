@@ -63,6 +63,24 @@ Andon Board / Cord - make defects stand out visibly, upon detection yank the cor
 DAS => root-cause problem solving => avoid future problems => loop
 
 # Problem solving
+Root cause analysis
 
+Ishikawa diagram / fish-bone diagram
+* brainstorming potential causes
+* looks like a fish skeleton
+\ \ \   \
+-------------- defect
+/   / /   /
+
+Five whys for root causing
+
+Pareto chart
+* graph # of defects by cause
+* 80-20 logic (80% of defects from 20% of causes)
+
+Iterative problem solving: interaction between models and reality
+* idea => production => jidoka => ishikawa chart => pareto chart => alternatives => experiments => etc.
 
 # Toyota production system
+
+
