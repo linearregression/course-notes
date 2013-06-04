@@ -82,5 +82,30 @@ Iterative problem solving: interaction between models and reality
 * idea => production => jidoka => ishikawa chart => pareto chart => alternatives => experiments => etc.
 
 # Toyota production system
+Ford production system
+* optimization of work
+* focus on utilitization
+* low variety (huge batches)
+* built around economies of scale
 
+Toyota production system
+* lack of scale meant failure
+* systematic elimination of waste
+* built around serving demand
 
+Components:
+1. Muda (zero-non-value-added activities)
+2. Production flow synchronized with demand
+  1. Mixed model production (heijunka)
+  2. match demand based on Takt time
+3. Quality methods to reduce defects
+  1. Fool-proofing (poka-yoke)
+  2. Detect-stop-alert (jidonka)
+4. Flexibility
+5. Standardization of work
+6. Worker involvement
+
+Enemies of operations
+1. Waste - use of resources beyond what is needed to meet customer requirements
+2. Variability - longer wait times and/or customer loss; buffer or suffer
+3. Inflexibility - supply and demand mismatch problems
