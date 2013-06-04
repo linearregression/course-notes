@@ -34,7 +34,23 @@ parts per million = defect rate * 1M units, standard expression for quality targ
 with this, you can calculate the allowable stdev for any desired quality goal
 
 # Control charts
+common cause variation - variance between outputs of the same process/tool
+* can be low or high
+assignable cause variation - variance between outputs of different processes/tools
 
+Minimize CCV 
+Identify ACV as quickly as possible
+
+1. track process parameter over time with control limits (not the same as the specification limits)
+2. variation outside the limits (say, 3sigma above and beyond) may be ACV
+
+Control limits aren't about defects -- they're just about identifying causes of variation
+
+Statistical process control
+* Capability analysis - what is the current inherent capability of the process?
+* Conformance analysis - control charts to identify loss of control
+* Investigate for assignable cause - root cause analysis
+* Eliminate or replicate assignable cause - corrective action 
 
 # Jidoka
 
