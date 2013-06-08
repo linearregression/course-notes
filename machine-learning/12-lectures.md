@@ -72,3 +72,27 @@ SVM parameters
 * small C = higher bias, lower variance
 * large SIGMA^2 = features vary smoothly = higher bias, lower variance
 * small SIGMA^2 = features vary abruptly = lower bias, higher variance
+
+# Using an SVM
+Use an SVM package to solve for THETA
+* need to specify C and choice of kernel (or no / linear kernel)
+* might want a linear kernal if n and m are large and you don't want a complicated, non-linear boundary (risk of overfitting)
+* Gaussian kernel - you have to choose SIGMA^2 - choose if number of features is small and m is large
+  * scale features before using the kernel (otherwise the norm for some Xs will be huge and those will dominate the equation)
+* not all similarity functions make valid kernels - Mercer's theorem
+* other kernels
+  * polynomial kernel k(x,l) = (x^T * l + constant)^degree
+  * string kernel, chi-square kernel, histogram intersection kernel
+
+Multi-class classification
+* many packages build it in
+* otherwise, use one-vs-all method
+
+Logistic regression vs SVMs
+* if n is large relative to m (10k vs 1k), use logistic regression or SVM with a linear kernel
+* if n is small and m is biggish (10k), use SVM with a Gaussian kernel
+* if n is small and m is large, create/add more features manually and use logistic regression or SVM with a linear kernel (Gaussian kernel would be slow)
+
+Logistic regression basically equal SVM without a kernel (linear kernel)
+Neural networks may work well for all of these, but may be slower to train
+Local optima are not a problem for SVMs, but may be for networks
