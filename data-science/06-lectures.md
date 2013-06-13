@@ -56,3 +56,13 @@ Problems:
 Splitting continuous attributes
 * sort data set
 * evaluate each choice based on information gain
+
+# Overfitting
+Great on training data, poor on test data
+Test on hold-out data (cross-validation sets)
+
+Overfitting: low bias / high variance
+Underfitting: high bias / low variance
+
+bias ~= accuracy (low bias == high accuracy)
+variance ~= precision (low variance == high precision)
