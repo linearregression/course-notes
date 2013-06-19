@@ -5,6 +5,8 @@ Describes how value is created, delivered, and captured
 * who will buy your product?
 * how do they differ?
 
+Segment patterns:
+
 * Mass market
 * Niche market
 * Segmented
@@ -17,7 +19,7 @@ Customize the value prop for each segment
 * qualitative - eg design
 
 ## Customer Relationships
-Aqcuire and retain customers
+Acquire and retain customers
 
 ## Channels
 How do you reach the segments?
@@ -36,3 +38,60 @@ What must the company do to generate revenue?
 
 ## Cost structure 
 What costs are incurred?
+
+
+# Patterns of business model generation
+## Free
+Supported by ads, paying customers, etc.
+
+Ex: ESPN
+
+### Advertising
+Requires lots of users
+
+### Freemium
+Compare cost of free users and conversion
+
+## Multi-sided
+Connect different markets
+
+Ex: eBay, Kickstarter
+
+## Open business models
+Technology licensing
+
+# Designing business models
+Tools:
+
+* Empathy map - imagine the customer
+* Ideation
+* Visual think
+* Prototyping
+    * napkin sketches
+    * business model canvas
+    * business plan
+    * field tests
+* Scenario planning -- simulation
+
+# Strategies
+Blue Ocean -- cost vs buyer value reconciliation
+
+* seek open markets
+* make competition less relevant
+* focus on new opportunities
+
+# Process 
+1. Mobilize
+2. Understand
+3. Design
+4. Implement
+5. Manage 
+
+## Customer development
+
+1. Cust discovery
+2. Cust validation
+3. Cust creation
+4. Company building
+
+
